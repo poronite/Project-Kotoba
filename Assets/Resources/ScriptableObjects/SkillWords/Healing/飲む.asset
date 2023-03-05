@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee4898763989f6145b224abfd1d5c3d2, type: 3}
+  m_Name: "\u98F2\u3080"
+  m_EditorClassIdentifier: 
+  skillName: "\u98F2\u3080"
+  description: "\u98F2\u307F\u7269\u3092\u98F2\u3093\u3067\u3001\u4E00\u5B9A\u91CF\u306E\u4F53\u529B\u3092\u56DE\u5FA9\u3059\u308B\u3002"
+  type: 2
+  attackStat: 10
+  healingPercentage: 30
+  numChar: 2
+  wordKK:
+  - "\u98F2"
+  - "\u3080"
+  wordAlph:
+  - no
+  - mu
+  skillCutscenes:
+  - {fileID: 0}
+  - {fileID: 0}
